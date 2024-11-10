@@ -1,0 +1,21 @@
+/*
+ *Name: [Aivan Byrnes]
+ *UnityID: [adbyrnes]
+ *Date: [11/8/2024]
+ *Assignment: [Project 4]
+ *Description: [Introduction to HTML and CSS]
+ */
+ 
+body {
+    background-color: #f0f8ff; 
+}
+
+table-border {
+    border: 2px solid #000; 
+}
+
+#photo-resize {
+    border: 2px outset green; 
+    width: 200px; 
+    height: 250px; 
+}
